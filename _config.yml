@@ -1,0 +1,29 @@
+name: West Ham United
+favicon: null
+layout_spectrum: 0.810105387121439
+typography_spectrum: 0.11005298118107021
+title: West Ham United Football
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.10350194456987083
+  lightness: 0.29288165923208
+  saturation: 0.7738878233358264
+  rhythmicContrast: 0.19098992785438895
+purpose: []
