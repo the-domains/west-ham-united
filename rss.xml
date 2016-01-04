@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[West Ham United Football]]></title>
         <description><![CDATA[West Ham United Football]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/west-ham-united/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 10:13:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Jan 2016 11:36:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/west-ham-united/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[West Ham United vs Liverpool 2016 2-0]]></title>
             <description><![CDATA[<article><h1>West Ham United vs Liverpool 2016 2-0</h1><p>West Ham completely outclassed a woeful Liverpool side on the weekend shoring up the double over the scousers for the first time in 52 years.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d156b007ef5637c784f13106b4d83b26297ed22f.jpg"></article>]]></description>
-            <link>undefinedwest-ham-united-vs-liverpool-2016-2-0/index.html</link>
+            <link>https://thegrid.ai/west-ham-united/west-ham-united-vs-liverpool-2016-2-0/index.html</link>
             <guid isPermaLink="false">b19ec218-d85c-433e-95ec-56c30bcc005d</guid>
             <pubDate>Mon, 04 Jan 2016 10:13:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Latest from West Ham vs Liverpool]]></title>
+            <description><![CDATA[<article><h1>Latest from West Ham vs Liverpool</h1><p>Let's just say Jurgen Klopp is NOT a happy bunny this afternoon. He's unhappy with his side's performance. "In the decisive moments, you have to be there" "In a game like this, you have to be better and you have to win". As for Liverpool, they will be thoroughly disappointed with their performance today.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/958dc08bff54dd8c74cf41ce4c619c9ded048556.jpg"></article>]]></description>
+            <link>http://www.mirror.co.uk/sport/football/match-centre/west-ham-vs-liverpool-live-7085711</link>
+            <guid isPermaLink="false">dc226ead-7e2f-4bcb-993f-9183334da455</guid>
+            <pubDate>Mon, 04 Jan 2016 11:36:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
